@@ -17,30 +17,32 @@ Discord: https://discord.gg/hrbcPjjZfj
 # Disclaimer
 I don't host the `.\mirror` folder since it has copyrighted content from Rockstar Games. Please find the files by yourself.
 
-No copyrighted file is included in this repo. If Rockstar Games or any affiliated group think this repo has copyright infringement things, email me at shadany7824@gmail.com for me to took it down.
+No copyrighted file is included in this repo. If Rockstar Games or any affiliated group think this repo has copyright infringement things, email me at atr.ayushmantripathi@gmail.com for me to take it down.
 
 And don't email me for asking the mirror folder. I will not reply to the email.
 
 # How to use
 1. Download the ZIP or just `git clone` it. It should have all this file and folders.
 <p align="center">
-  <img src="media/Screenshot 2026-10-07 172103.png" alt="playgta5 SC">
+  <img src="https://raw.githubusercontent.com/tripathiayushman/playgta5/master/media/Screenshot%202026-10-07%20172103.png" alt="playgta5 SC">
 </p>
 
 2. Paste your `.mirror` folder at your desired path. (It should have 19.7 GB of file size. Check the pic below.)
 <p align="center">
-  <img src="media/Screenshot 2026-10-07 172216.png" alt="Folder Properties">
+  <img src="https://raw.githubusercontent.com/tripathiayushman/playgta5/master/media/Screenshot%202026-10-07%20172216.png" alt="Folder Properties">
 </p>
 <p align="center">
-  <img src="media/Screenshot 2026-10-07 172718.png" alt="Folder Properties">
+  <img src="https://raw.githubusercontent.com/tripathiayushman/playgta5/master/media/Screenshot%202026-10-07%20172718.png" alt="Folder Properties">
 </p>
 <p align="center">
-  <img src="media/Screenshot 2026-10-07 172758.png" alt="Folder Properties">
+  <img src="https://raw.githubusercontent.com/tripathiayushman/playgta5/master/media/Screenshot%202026-10-07%20172758.png" alt="Folder Properties">
 </p>
 
-3. Run the `Launch-Local.cmd` and it will automatically open the URL at `http://localhost:8000/`.
+3. Run the local server:
+   - **Windows**: Double-click `Launch-Local.cmd`
+   - **Linux/macOS**: Run `./runtime/python.exe serve_local.py --open` or `python3 serve_local.py --open`
 
-4. Voila!
+4. Voila! The game will open at `http://localhost:8000/`
 
 # Requirement
 Scripts require standard-library Python 3.11 or newer. The bundled Python path
