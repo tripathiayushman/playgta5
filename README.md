@@ -1,19 +1,6 @@
 # playgta5 Source Code
 This code is grabbed from playgta5.com before it got took down. You can run this locally or make it public hehe.
 
-# Credits
-Shoutout to Sebas Furbastian on Telegram for scrapping this code. Idk what is his GitHub but here's the Telegram and X.
-
-Telegram: @SebasKitten
-
-X: @Sebas_Kitten
-
-# Link
-Telegram: https://t.me/reGRANDTA
-
-Discord: https://discord.gg/hrbcPjjZfj
-
-
 # Disclaimer
 I don't host the `.\mirror` folder since it has copyrighted content from Rockstar Games. Please find the files by yourself.
 
